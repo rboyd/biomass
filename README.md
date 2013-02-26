@@ -1,10 +1,20 @@
 # biomass
 
 > Det. Thorn: "Who bought you?"
+
 > Hatcher: "You're bought as soon as they pay you a salary."
-> - Soylent Green
+
+> -- *Soylent Green*
 
 Drive [Amazon Mechanical Turk](http://mturk.com) from your Clojure apps.
+
+# Configuration
+
+Create a config.clj in your resources paths with a map with the following format:
+
+```clojure
+{:AWSAccessKeyId "abcd1234"}
+```
 
 ## License
 

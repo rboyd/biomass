@@ -3,5 +3,7 @@
   :url "https://github.com/rboyd/biomass"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :resource-paths ["etc"]
   :dependencies [[org.clojure/clojure "1.4.0"]
-                 [clj-http "0.6.4"]])
+                 [clj-http "0.6.4"]
+                 [sonian/carica "1.0.2"]])
