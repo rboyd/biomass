@@ -1,3 +1,6 @@
+# THIS REPOSITORY IS DEPRECATED -> biomass has [moved!](https://github.com/smnirven/biomass)
+
+
 # biomass
 
 > Det. Thorn: "Who bought you?"
